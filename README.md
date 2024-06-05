@@ -75,3 +75,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### Netflix GPT ###
 # Installed TailwindCSS #
 # Configured TailwindCSS #
+# Header
+# Login

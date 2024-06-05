@@ -1,10 +1,8 @@
-import './App.css';
+import Body from "./components/Body";
 
 function App() {
   return (
-    <div className="App text-5xl text-green-500">
-      lets start with netflix!
-    </div>
+    <Body/>
   );
 }
 
